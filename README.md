@@ -4,14 +4,6 @@
 
 Scripting involves writing and executing scripts to automate tasks or perform specific functions. Python is a popular scripting language known for its simplicity and versatility.
 
-## Scripting Basics with Python
-
-### Python Environment Setup
-
-1. Install Python: Download and install Python from the official website (https://www.python.org) based on your operating system.
-
-2. Verify Installation: Open a terminal or command prompt and type `python --version` to ensure Python is properly installed.
-
 ### Basics of Scripting
 
 Python provides several built-in modules that offer additional functionality. Here are a few examples:
